@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CorMobiApp.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>CAFD4941E6180B75E428134C689D36FCCEA34C55</string>
+				<key>dateExpires</key>
+				<string>2019/2/16</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>TKZ6NJZD4M.com.KND.test.t001</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>TKZ6NJZD4M</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>CorMobiApp.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>c3a2a4fb-b752-403e-95a4-f138632bb318</string>
+				<key>name</key>
+				<string>coracle.default</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>TKZ6NJZD4M</string>
+				<key>name</key>
+				<string>Shenzhen Kingnod Consulting Inc</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
